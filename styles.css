@@ -34,7 +34,7 @@ header {
   font-weight: 800;
 }
 
-.nav ul,
+#desktop-nav ul,
 .mobile-nav ul {
   list-style: none;
   display: flex;
@@ -209,7 +209,7 @@ main {
   body {
     padding: 0 1rem;
   }
-  .nav {
+  #desktop-nav {
     display: none;
   }
 
